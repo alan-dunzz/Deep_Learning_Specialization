@@ -17,8 +17,10 @@ In this project, I use the functions defined in the previous project to build a 
 ## Optimization methods
 In this project, I compare mini-batch gradient descent, momentum, and Adam optimizers on a "moons" dataset.
 <p float = "left">
-![Gradient](https://github.com/user-attachments/assets/aca72fc2-30b5-4678-9ffb-6a85a0b5b5a7)![Momentum](https://github.com/user-attachments/assets/a07263b0-c8e9-49d9-94cc-4606d2c11351)![Adam](https://github.com/user-attachments/assets/8da36c71-13db-4ebf-a026-f53429486802)
+<img src="https://github.com/user-attachments/assets/aca72fc2-30b5-4678-9ffb-6a85a0b5b5a7" width="100" />
+<img src="https://github.com/user-attachments/assets/a07263b0-c8e9-49d9-94cc-4606d2c11351" width="100" />
 </p>
+![Gradient](https://github.com/user-attachments/assets/aca72fc2-30b5-4678-9ffb-6a85a0b5b5a7)![Momentum](https://github.com/user-attachments/assets/a07263b0-c8e9-49d9-94cc-4606d2c11351)![Adam](https://github.com/user-attachments/assets/8da36c71-13db-4ebf-a026-f53429486802)
 
 ## Regularization
 In this project, I analyze how using L2 regularization and dropout prevents overfitting.
